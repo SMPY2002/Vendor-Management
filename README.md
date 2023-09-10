@@ -1,4 +1,4 @@
-# Vendor-Management
+# Vendor-Management System
 A complete python Project that deal between dealer and retailer. 
 Here is the screenshots of the GUI  of project (which opens on desktop mode) :-
 1) It is the first page of the software where user land. Now after clicking on the the let's explore button move to the Login page.
@@ -14,3 +14,20 @@ Here is the screenshots of the GUI  of project (which opens on desktop mode) :-
 6) Dealer registration window where they can register themselves.
 ![Screenshot 2023-09-10 105643](https://github.com/SMPY2002/Vendor-Management/assets/118500436/ee0afe8a-7190-40c8-98ac-741bb163df3f)
 
+# Apart from all these pics , here is a pdf of this project which describe it in some more details .
+[Shop-Management System Presentation.pdf](https://github.com/SMPY2002/Vendor-Management/files/12567611/Shop-Management.System.Presentation.pdf)
+
+
+# Tools/Techstacks Used :-
+1) Python (Libraries used :-
+     a) tkinter (for desktop GUI)
+     b) qrcode
+     c) pillow
+     d) image-resize .
+     e) os ( to link multiple python pages of this software )
+2) Database used : - Sqlite3 ( SQL database)
+
+# Note :- Apart from all this ,  their are many things which can be further improved or modified  in this project which make it more useful and attractive.
+ if anyone want to collab with me and trying to impovre this project on next level then you are most welcomed.
+ 
+ 
