@@ -1,3 +1,9 @@
+> Note: Please install the required package from the `requirements.txt` file.
+```bash
+pip install -r requirements.txt
+```
+
+
 # Vendor-Management System
 A complete python Project that deal between dealer and retailer. 
 Here is the screenshots of the GUI  of project (which opens on desktop mode) :-
