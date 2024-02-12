@@ -5,7 +5,7 @@ pip install -r requirements.txt
 
 
 # Vendor-Management System
-A complete python Project that deal between dealer and retailer. 
+A complete python Project that deal between dealers and retailers. 
 Here is the screenshots of the GUI  of project (which opens on desktop mode) :-
 1) It is the first page of the software where user land. Now after clicking on the the let's explore button move to the Login page.
 ![Screenshot 2023-09-10 105119](https://github.com/SMPY2002/Vendor-Management/assets/118500436/67e10d8b-63f4-403c-86db-6b8f0cd56da5)
